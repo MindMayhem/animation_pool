@@ -1,8 +1,7 @@
 name: animation_pool
 description: animation_pool is a package that allows you to implement a pool of reused animations, without recreating them
 version: 0.0.1
-homepage:
-repository: 
+repository: https://github.com/MindMayhem/animation_pool
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
