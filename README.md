@@ -3,6 +3,11 @@
 ***animation_pool*** is a package that allows you to implement a pool of reused animations, without recreating them
 
 
+## Preview GIFs
+![screen-20220619-034009 (online-video-cutter com)](https://user-images.githubusercontent.com/39557395/174461464-9fb24c82-56df-4ebf-b9b5-d5c5a873271b.gif)
+![screen-20220619-034206 (online-video-cutter com)](https://user-images.githubusercontent.com/39557395/174461469-7a1c02ce-5eeb-4299-b306-0dcafe42607b.gif)
+
+
 ## Components
 
 The main component is ***AnimationPoolScope***, which contains a mechanism for caching and "lazy" loading of AnimationControllers.
